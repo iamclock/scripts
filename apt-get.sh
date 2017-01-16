@@ -17,11 +17,14 @@ sudo apt-get install -y libreoffice
 sudo apt-get install -y wireshark
 sudo apt-get install -y handbrake openshot
 sudo apt-get install -y ubuntu-restricted-extras
+sudo apt-get install -y samba
 #sudo apt-get install -y audacity audacity-data
 #sudo apt-get install -y libkworkspace5-5
 #sudo apt-get install -y plasma-workspace-dev
 #sudo apt-get install -y kde-wallpapers-default plasma-workspace-wallpapers
-echo "avidemux"
+#dpkg --get-selections | grep -v deinstall
+#apt-mark showmanual
+echo "avidemux, openshot, handbrake"
 echo "chrome, opera"
 echo "libre-office5 impress"
 echo "kinfocenter Attention: -) desktop-plasma"

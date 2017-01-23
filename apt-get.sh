@@ -8,6 +8,7 @@ sudo apt-get update
 #sudo apt-get install winehq-staging
 sudo apt-get install -y eog eog-plugins pwgen
 sudo apt-get install -y synaptic
+sudo apt-get install -y unoconv
 sudo apt-get install -y gksu gdebi
 sudo apt-get install -y playonlinux
 sudo apt-get install -y ktorrent qbittorrent

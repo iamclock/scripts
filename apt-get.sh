@@ -23,7 +23,7 @@ sudo apt-get install -y vlc vlc-data browser-plugin-vlc
 sudo apt-get install -y gimp gimp-data
 sudo apt-get install -y libreoffice
 sudo apt-get install -y wireshark
-sudo apt-get install -y handbrake openshot
+sudo apt-get install -y handbrake openshot frei0r-plugins inkscape
 #sudo apt-get install -y ubuntu-restricted-extras
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data

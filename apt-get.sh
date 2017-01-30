@@ -1,12 +1,15 @@
 sudo ls $1 > /dev/null
 sudo add-apt-repository ppa:pi-rho/security
 sudo add-apt-repository ppa:wine/wine-builds
+#sudo add-apt-repository ppa:nilarimogard/webupd8
 #sudo add-apt-repository ppa:ubuntu-wine/ppa
 
 sudo apt-get update
 #sudo apt-get install --install-recommends wine-staging
 #sudo apt-get install winehq-staging
-sudo apt-get install -y eog eog-plugins pwgen
+#sudo apt-get install -y eog eog-plugins
+#sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
+sudo apt-get install -y pwgen
 sudo apt-get install -y synaptic
 sudo apt-get install -y unoconv
 sudo apt-get install -y gksu gdebi
@@ -24,10 +27,11 @@ sudo apt-get install -y gimp gimp-data
 sudo apt-get install -y libreoffice
 sudo apt-get install -y wireshark
 sudo apt-get install -y handbrake openshot frei0r-plugins inkscape
-#sudo apt-get install -y ubuntu-restricted-extras
-sudo apt-get install -y vokoscreen recordmydesktop gtk-recordmydesktop #qt-recordmydesktop
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
+#sudo apt-get install -y vokoscreen recordmydesktop gtk-recordmydesktop #qt-recordmydesktop
+
+#sudo apt-get install -y ubuntu-restricted-extras
 #sudo apt-get install -y libkworkspace5-5
 #sudo apt-get install -y plasma-workspace-dev
 #sudo apt-get install -y kde-wallpapers-default plasma-workspace-wallpapers

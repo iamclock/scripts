@@ -9,6 +9,8 @@ sudo apt-get update
 #sudo apt-get install winehq-staging
 #sudo apt-get install -y eog eog-plugins
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
+sudo apt-get install -y sysinfo #hardinfo
+#sudo lshw -businfo | grep -i display
 sudo apt-get install -y pwgen
 sudo apt-get install -y synaptic
 sudo apt-get install -y unoconv

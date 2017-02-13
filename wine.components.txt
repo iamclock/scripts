@@ -4,7 +4,8 @@ http://ubuntu-wine.ru/index/grand_theft_auto_iv_on_ubuntu/0-97
 https://appdb.winehq.org/objectManager.php?sClass=version&iId=22316
 https://appdb.winehq.org/objectManager.php?sClass=version&iId=22435
 *GTA IV: wine 2.1-32bit
-		winetricks corefonts d3dx10 d3dx9_26 d3dx9_28 d3dx9_31 d3dx9_35 d3dx9_36 d3dx9_39 d3dx9_42 d3dx9_43 d3dx9 directx9 dxdiag dxdiagn dotnet20 dotnet20sp1 dotnet40 gfw mfc40 mfc42 msxml3 msxml4 msxml6 physx quartz vb6run vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun6sp6 vcrun6 wmp10 wsh56vb wsh57 xact_jun2010 xact xinput xna40
+d3dx10 dotnet20 dotnet20sp1 dotnet40 quartz xact
+		winetricks corefonts d3dx9_43 d3dx9 directx9 dotnet30 dotnet35 dxdiag dxdiagn  gfw mfc40 mfc42 msxml3 msxml4 msxml6 physx vb6run vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun6sp6 vcrun6 wmp10 wsh56vb wsh57 xact_jun2010 xinput xna40
 	DirectDrawRenderer = opengl
 	NonPower2Mode = repack
 	OffscreenRenderingMode = fbo

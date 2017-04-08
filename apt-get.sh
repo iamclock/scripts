@@ -23,7 +23,7 @@ sudo apt-get install -y ktorrent qbittorrent
 #sudo apt-get install -y nemo gnome-terminal
 sudo apt-get install -y git gitk
 #sudo apt-get install -y gedit-dev gedit-common gedit-plugins #gedit-developer-plugins
-sudo apt-get install -y kate kate-data kate5-data
+sudo apt-get install -y geany kate kate-data kate5-data
 sudo apt-get install -y nmap
 sudo apt-get install -y acetoneiso
 sudo apt-get install -y gparted

@@ -2,7 +2,7 @@ sudo ls $1 > /dev/null
 sudo add-apt-repository ppa:pi-rho/security
 sudo add-apt-repository ppa:wine/wine-builds
 sudo add-apt-repository ppa:kdenlive/kdenlive-stable
-sudo add-apt-repository ppa:openshot.developers/ppa
+#sudo add-apt-repository ppa:openshot.developers/ppa
 #sudo add-apt-repository ppa:nilarimogard/webupd8
 #sudo add-apt-repository ppa:ubuntu-wine/ppa
 
@@ -32,11 +32,11 @@ sudo apt-get install -y gimp gimp-data
 sudo apt-get install -y libreoffice
 sudo apt-get install -y wireshark
 sudo apt-get install -y kdenlive
-sudo apt-get install -y handbrake openshot-qt frei0r-plugins inkscape
+sudo apt-get install -y handbrake frei0r-plugins inkscape #openshot-qt
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
-#sudo apt-get install -y plexmediaserver
-#sudo apt-get install -y vokoscreen recordmydesktop gtk-recordmydesktop #qt-recordmydesktop
+sudo apt-get install -y plexmediaserver
+sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
 
 #sudo apt-get install -y ubuntu-restricted-extras
 #sudo apt-get install -y libkworkspace5-5
@@ -51,7 +51,7 @@ sudo apt-get install -y audacity audacity-data
 #sudo ppa-purge ppa:kdenlive/kdenlive-stable
 #sudo ppa-purge ppa:openshot.developers/ppa
 
-echo "avidemux, openshot, handbrake"
+echo "avidemux, openshot, handbrake, blender"
 echo "chrome, opera"
 echo "libre-office5 impress"
 echo "kinfocenter Attention: -) desktop-plasma"

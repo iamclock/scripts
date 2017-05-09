@@ -35,7 +35,6 @@ sudo apt-get install -y kdenlive
 sudo apt-get install -y handbrake frei0r-plugins inkscape #openshot-qt
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
-sudo apt-get install -y plexmediaserver
 sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
 
 #sudo apt-get install -y ubuntu-restricted-extras
@@ -52,7 +51,7 @@ sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-reco
 #sudo ppa-purge ppa:openshot.developers/ppa
 
 echo "avidemux, openshot, handbrake, blender"
-echo "chrome, opera"
+echo "chrome, opera, plexmediaserver"
 echo "libre-office5 impress"
 echo "kinfocenter Attention: -) desktop-plasma"
 echo "steam"

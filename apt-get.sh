@@ -2,6 +2,7 @@ sudo ls $1 > /dev/null
 sudo add-apt-repository ppa:pi-rho/security
 sudo add-apt-repository ppa:wine/wine-builds
 sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
 #sudo add-apt-repository ppa:openshot.developers/ppa
 #sudo add-apt-repository ppa:nilarimogard/webupd8
 #sudo add-apt-repository ppa:ubuntu-wine/ppa
@@ -19,7 +20,8 @@ sudo apt-get install -y synaptic
 sudo apt-get install -y unoconv
 sudo apt-get install -y gksu gdebi
 sudo apt-get install -y playonlinux
-sudo apt-get install -y ktorrent qbittorrent
+sudo apt-get install -y xfce4-pulseaudio-plugin # volti
+sudo apt-get install -y qbittorrent # ktorrent
 #sudo apt-get install -y nemo gnome-terminal
 sudo apt-get install -y git g++ gcc gitk
 #sudo apt-get install -y gedit-dev gedit-common gedit-plugins #gedit-developer-plugins

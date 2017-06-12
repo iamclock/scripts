@@ -16,7 +16,7 @@ sudo apt-get install -y sysinfo #hardinfo
 #sudo lshw -businfo | grep -i display
 sudo apt-get install -y pwgen htop nload
 #sudo apt-get install -y mtop ntop
-sudo apt-get install -y synaptic
+sudo apt-get install -y synaptic rar
 sudo apt-get install -y unoconv
 sudo apt-get install -y gksu gdebi
 sudo apt-get install -y playonlinux

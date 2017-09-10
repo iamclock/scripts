@@ -1,8 +1,8 @@
 sudo ls $1 > /dev/null
-sudo add-apt-repository ppa:pi-rho/security
-sudo add-apt-repository ppa:wine/wine-builds
-sudo add-apt-repository ppa:kdenlive/kdenlive-stable
-sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+sudo add-apt-repository -y ppa:pi-rho/security
+sudo add-apt-repository -y ppa:wine/wine-builds
+sudo add-apt-repository -y ppa:kdenlive/kdenlive-stable
+sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
 #sudo add-apt-repository ppa:openshot.developers/ppa
 #sudo add-apt-repository ppa:nilarimogard/webupd8
 #sudo add-apt-repository ppa:ubuntu-wine/ppa
@@ -25,19 +25,25 @@ sudo apt-get install -y qbittorrent # ktorrent
 #sudo apt-get install -y nemo gnome-terminal
 sudo apt-get install -y git g++ gcc nasm gitk
 #sudo apt-get install -y gedit-dev gedit-common gedit-plugins #gedit-developer-plugins
-sudo apt-get install -y geany kate kate-data kate5-data
+#sudo apt-get install -y geany
+sudo apt-get install -y kate kate-data kate5-data
 sudo apt-get install -y nmap
 sudo apt-get install -y acetoneiso
 sudo apt-get install -y gparted
 sudo apt-get install -y vlc vlc-data browser-plugin-vlc
 sudo apt-get install -y gimp gimp-data
 sudo apt-get install -y libreoffice
-sudo apt-get install -y wireshark
 sudo apt-get install -y kdenlive
 sudo apt-get install -y handbrake frei0r-plugins inkscape #openshot-qt
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
 sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
+sudo apt-get install -y libparted0-dev
+sudo apt-get install -y k3b
+sudo apt-get install -y wipe
+sudo apt-get install -y wireshark
+#sudo apt-get install -y build-essential
+#sudo apt-get install -y libgtk2.0-dev
 
 #sudo apt-get install -y ubuntu-restricted-extras
 #sudo apt-get install -y libkworkspace5-5
@@ -59,6 +65,10 @@ echo "kinfocenter Attention: -) desktop-plasma"
 echo "steam"
 echo "skype"
 echo "mysql"
-echo "multisystem"
+echo "acestream"
+echo "qt creator"
+echo "game conqueror"
+echo "multisystem, sardu"
+echo "f3"
 echo "samba, nfs"
 

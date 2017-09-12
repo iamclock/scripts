@@ -38,7 +38,7 @@ sudo apt-get install -y handbrake frei0r-plugins inkscape #openshot-qt
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
 sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
-sudo apt-get install -y libparted0-dev
+sudo apt-get install -y libparted0-dev libgtk2.0-dev gdebi
 sudo apt-get install -y k3b
 sudo apt-get install -y wipe
 sudo apt-get install -y wireshark

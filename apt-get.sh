@@ -10,7 +10,7 @@ sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
 sudo apt-get update
 #sudo apt-get install --install-recommends wine-staging
 #sudo apt-get install winehq-staging
-#sudo apt-get install -y eog eog-plugins
+sudo apt-get install -y eog eog-plugins
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
 sudo apt-get install -y sysinfo #hardinfo
 #sudo lshw -businfo | grep -i display

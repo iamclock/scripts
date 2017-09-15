@@ -19,7 +19,7 @@ sudo apt-get install -y pwgen htop nload
 sudo apt-get install -y synaptic rar # unar
 sudo apt-get install -y unoconv
 sudo apt-get install -y gksu gdebi
-sudo apt-get install -y playonlinux
+sudo apt-get install -y playonlinux winetricks
 sudo apt-get install -y xfce4-pulseaudio-plugin # volti
 sudo apt-get install -y qbittorrent # ktorrent
 #sudo apt-get install -y nemo gnome-terminal

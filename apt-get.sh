@@ -1,6 +1,16 @@
 sudo ls $1 > /dev/null
 sudo add-apt-repository -y ppa:pi-rho/security
+
+sudo dpkg --add-architecture i386
 sudo add-apt-repository -y ppa:wine/wine-builds
+
+#http://help.ubuntu.ru/wiki/wine_установка
+#https://wiki.winehq.org/Ubuntu
+#wget -nc https://dl.winehq.org/wine-builds/Release.key
+#sudo apt-key add Release.key
+#sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/xenial main'
+
+
 sudo add-apt-repository -y ppa:kdenlive/kdenlive-stable
 sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
 #sudo add-apt-repository ppa:openshot.developers/ppa
@@ -8,8 +18,8 @@ sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
 #sudo add-apt-repository ppa:ubuntu-wine/ppa
 
 sudo apt-get update
-#sudo apt-get install --install-recommends wine-staging
-#sudo apt-get install winehq-staging
+#sudo apt-get install --install-recommends wine-stable
+#sudo apt-get install winehq-stable
 sudo apt-get install -y eog eog-plugins
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
 sudo apt-get install -y sysinfo #hardinfo

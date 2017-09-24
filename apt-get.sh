@@ -28,6 +28,7 @@ sudo apt-get install -y pwgen htop nload
 #sudo apt-get install -y mtop ntop
 sudo apt-get install -y synaptic rar # unar
 sudo apt-get install -y unoconv
+#sudo apt-get install -y winbind
 sudo apt-get install -y gksu gdebi
 sudo apt-get install -y playonlinux winetricks
 sudo apt-get install -y xfce4-pulseaudio-plugin # volti
@@ -47,11 +48,18 @@ sudo apt-get install -y kdenlive
 sudo apt-get install -y handbrake frei0r-plugins inkscape #openshot-qt
 sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
-sudo apt-get install -y vokoscreen recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
+sudo apt-get install -y vokoscreen kazam #recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
 sudo apt-get install -y libparted0-dev libgtk2.0-dev gdebi
 sudo apt-get install -y k3b
 sudo apt-get install -y wipe
 sudo apt-get install -y wireshark
+
+#cd $(mktemp -d)
+#apt-get download p11-kit-modules:i386
+#apt-get download libp11-kit-gnome-keyring:i386
+#unrar
+#sudo mv usr/lib/i386-linux-gnu/pkcs11 /usr/lib/i386-linux-gnu/
+
 #sudo apt-get install -y build-essential
 #sudo apt-get install -y libgtk2.0-dev
 

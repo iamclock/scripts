@@ -11,7 +11,7 @@ do
 	((i++))
 	echo '-----------------------' >> log.txt
 	date >> log.txt
-	sensors | awk "NR<4" >> log.txt
+	sensors | awk "NR==3; NR==7; NR==8" >> log.txt
 	echo '-----------------------' >> log.txt
 	echo '' >> log.txt
 	sleep 1

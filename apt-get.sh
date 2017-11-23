@@ -21,6 +21,7 @@ sudo apt-get update
 #sudo apt-get install --install-recommends wine-stable
 #sudo apt-get install winehq-stable
 sudo apt-get install -y eog eog-plugins
+sudo apt-get install -y lm-sensors fancontrol # xsensors sensors-applet xfce4-sensors-plugin
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
 sudo apt-get install -y sysinfo #hardinfo
 #sudo lshw -businfo | grep -i display

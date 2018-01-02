@@ -13,6 +13,7 @@ sudo add-apt-repository -y ppa:wine/wine-builds
 
 sudo add-apt-repository -y ppa:kdenlive/kdenlive-stable
 sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
+#sudo add-apt-repository -y ppa:otto-kesselgulasch/gimp-edge
 #sudo add-apt-repository ppa:openshot.developers/ppa
 #sudo add-apt-repository ppa:nilarimogard/webupd8
 #sudo add-apt-repository ppa:ubuntu-wine/ppa

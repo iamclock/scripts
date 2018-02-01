@@ -29,7 +29,7 @@ sudo apt-get install -y sysinfo #hardinfo
 sudo apt-get install -y pwgen htop nload
 #sudo apt-get install -y mtop ntop
 sudo apt-get install -y synaptic rar # unar
-sudo apt-get install -y unoconv
+sudo apt-get install -y unoconv #pdftk pdfsam pdfjam jPDFTweak
 #sudo apt-get install -y winbind
 sudo apt-get install -y gksu gdebi
 sudo apt-get install -y playonlinux winetricks

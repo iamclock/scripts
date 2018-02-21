@@ -32,6 +32,7 @@ sudo apt-get install -y synaptic rar # unar
 sudo apt-get install -y unoconv #pdftk pdfsam pdfjam jPDFTweak
 #sudo apt-get install -y winbind
 sudo apt-get install -y gksu gdebi
+sudo apt-get install -y valgrind strace
 sudo apt-get install -y playonlinux winetricks
 sudo apt-get install -y xfce4-pulseaudio-plugin # volti
 sudo apt-get install -y qbittorrent # ktorrent

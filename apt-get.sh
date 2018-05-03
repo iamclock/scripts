@@ -54,6 +54,8 @@ sudo apt-get install -y audacity audacity-data
 sudo apt-get install -y vokoscreen kazam #recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
 sudo apt-get install -y libparted0-dev libgtk2.0-dev gdebi
 sudo apt-get install -y k3b
+sudo apt-get install -y testdisk photorec
+sudo apt-get install -y virtualbox virtualbox-qt qemu
 sudo apt-get install -y wipe
 sudo apt-get install -y wireshark
 

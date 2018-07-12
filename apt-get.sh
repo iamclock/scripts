@@ -21,12 +21,13 @@ sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
 sudo apt-get update
 #sudo apt-get install --install-recommends wine-stable
 #sudo apt-get install winehq-stable
+#sudo apt-get install -y dselect && sudo dselect update
 sudo apt-get install -y eog eog-plugins
 sudo apt-get install -y lm-sensors fancontrol # xsensors sensors-applet xfce4-sensors-plugin
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
 sudo apt-get install -y sysinfo #hardinfo
 #sudo lshw -businfo | grep -i display
-sudo apt-get install -y pwgen htop nload
+sudo apt-get install -y pwgen htop nload tree iftop
 #sudo apt-get install -y mtop ntop
 sudo apt-get install -y synaptic rar # unar
 sudo apt-get install -y unoconv #pdftk pdfsam pdfjam jPDFTweak

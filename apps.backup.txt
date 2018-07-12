@@ -1,1470 +1,1470 @@
-accountsservice
-acetoneiso
-acl
-acpi-support
-acpid
-adduser
-adobe-flashplugin:i386
-adwaita-icon-theme
-alsa-base
-alsa-utils
-amarok
-anacron
-app-install-data
-app-install-data-partner
-apparmor
-apport
-apport-gtk
-apport-symptoms
-apt
-apt-offline
-apt-utils
-apt-xapian-index
-aptdaemon
-aptdaemon-data
-aspell
-aspell-en
-astyle
-at-spi2-core
-atom
-audacity
-avahi-autoipd
-avahi-daemon
-avahi-utils
-base-files
-base-passwd
-bash
-bash-completion
-bc
-bind9-host
-binutils
-blender
-blueman
-bluez
-bluez-cups
-bluez-obexd
-brltty
-brltty-x11
-browser-plugin-vlc
-bsdmainutils
-bsdutils
-build-essential
-busybox-initramfs
-busybox-static
-bzip2
-ca-certificates
-catfish
-cheese-common
-chromium-codecs-ffmpeg-extra
-colord
-colord-data
-command-not-found
-command-not-found-data
-conky-manager
-console-setup
-console-setup-linux
-coreutils
-cpio
-cpp
-cpp-5
-crda
-cron
-cups
-cups-browsed
-cups-bsd
-cups-client
-cups-common
-cups-core-drivers
-cups-daemon
-cups-filters
-cups-filters-core-drivers
-cups-ppdc
-cups-server-common
-dash
-dbus
-dbus-x11
-dc
-dconf-gsettings-backend
-dconf-service
-debconf
-debconf-i18n
-debian-archive-keyring
-debianutils
-desktop-base
-desktop-file-utils
-dh-python
-dialog
-dictionaries-common
-diffstat
-diffutils
-divxcomp
-dkms
-dmidecode
-dmsetup
-dmz-cursor-theme
-dns-root-data
-dnsmasq-base
-dnsutils
-doc-base
-dosfstools
-dpkg
-dpkg-dev
-e2fslibs
-e2fsprogs
-ed
-eject
-emacsen-common
-enchant
-eog
-eog-plugins
-espeak
-espeak-data
-ettercap-graphical:i386
-evince
-evince-common
-exo-utils
-fakeroot
-ffmpeg
-ffmpegthumbnailer
-file
-file-roller
-findutils
-firefox
-firefox-locale-en
-firefox-locale-ru
-firehol
-fontconfig
-fontconfig-config
-fonts-dejavu-core
-fonts-freefont-ttf
-fonts-guru
-fonts-guru-extra
-fonts-kacst
-fonts-kacst-one
-fonts-khmeros-core
-fonts-lao
-fonts-liberation
-fonts-lklug-sinhala
-fonts-lohit-guru
-fonts-nanum
-fonts-noto-cjk
-fonts-noto-hinted
-fonts-opensymbol
-fonts-sil-abyssinica
-fonts-sil-padauk
-fonts-takao-pgothic
-fonts-thai-tlwg
-fonts-tibetan-machine
-fonts-tlwg-garuda
-fonts-tlwg-kinnari
-fonts-tlwg-laksaman
-fonts-tlwg-loma
-fonts-tlwg-mono
-fonts-tlwg-norasi
-fonts-tlwg-purisa
-fonts-tlwg-sawasdee
-fonts-tlwg-typewriter
-fonts-tlwg-typist
-fonts-tlwg-typo
-fonts-tlwg-umpush
-fonts-tlwg-waree
-foomatic-db-compressed-ppds
-fping
-friendly-recovery
-ftp
-fuse
-fwupd
-fwupdate-signed
-g++
-g++-5
-gawk
-gcc
-gcc-5
-gcc-5-base
-gconf-service
-gconf-service-backend
-gconf2
-gconf2-common
-gcr
-gdb
-gdbserver
-gdebi
-gdisk
-gedit-common
-gedit-dev
-gedit-plugins
-genisoimage
-geoip-database
-gettext
-gettext-base
-ghostscript
-ghostscript-x
-gigolo
-gimp
-gimp-data
-gir1.2-appindicator3-0.1
-gir1.2-atk-1.0
-gir1.2-atspi-2.0
-gir1.2-cheese-3.0
-gir1.2-clutter-1.0
-gir1.2-cogl-1.0
-gir1.2-coglpango-1.0
-gir1.2-freedesktop
-gir1.2-gdkpixbuf-2.0
-gir1.2-glib-2.0
-gir1.2-gmenu-3.0
-gir1.2-gnomekeyring-1.0
-gir1.2-gst-plugins-base-1.0
-gir1.2-gstreamer-1.0
-gir1.2-gtk-3.0
-gir1.2-gtkclutter-1.0
-gir1.2-gudev-1.0
-gir1.2-javascriptcoregtk-3.0
-gir1.2-json-1.0
-gir1.2-notify-0.7
-gir1.2-packagekitglib-1.0
-gir1.2-pango-1.0
-gir1.2-soup-2.4
-gir1.2-vte-2.91
-gir1.2-webkit-3.0
-gir1.2-wnck-3.0
-git
-gitk
-gksu
-glib-networking
-glib-networking-common
-glib-networking-services
-gmusicbrowser
-gnome-accessibility-themes
-gnome-calculator
-gnome-icon-theme
-gnome-icon-theme-symbolic
-gnome-keyring
-gnome-menus
-gnome-mines
-gnome-software
-gnome-sudoku
-gnome-system-tools
-gnome-terminal
-gnome-themes-standard
-gnome-themes-standard-data
-gnome-user-guide
-gnupg
-gparted
-gpgv
-grep
-greybird-gtk-theme
-groff-base
-grub-common
-grub-gfxpayload-lists
-grub-pc
-grub-pc-bin
-grub2-common
-gsettings-desktop-schemas
-gsettings-ubuntu-schemas
-gsfonts
-gstreamer1.0-clutter
-gstreamer1.0-fluendo-mp3
-gstreamer1.0-libav
-gstreamer1.0-nice
-gstreamer1.0-plugins-bad
-gstreamer1.0-plugins-base
-gstreamer1.0-plugins-base-apps
-gstreamer1.0-plugins-good
-gstreamer1.0-plugins-ugly
-gstreamer1.0-pulseaudio
-gstreamer1.0-tools
-gstreamer1.0-x
-gtk-theme-config
-gtk2-engines-murrine
-gtk2-engines-pixbuf
-gtkdialog
-gucharmap
-guvcview
-gvfs
-gvfs-backends
-gvfs-bin
-gvfs-common
-gvfs-daemons
-gvfs-fuse
-gvfs-libs
-gzip
-handbrake
-hardening-includes
-hddtemp
-hdparm
-hicolor-icon-theme
-hostname
-hping3
-hplip
-hplip-data
-humanity-icon-theme
-hunspell-en-us
-hunspell-ru
-hyphen-en-us
-hyphen-ru
-ifupdown
-im-config
-indicator-application
-indicator-messages
-indicator-sound
-indicator-sound-gtk2
-info
-init
-init-system-helpers
-initramfs-tools
-initramfs-tools-bin
-initscripts
-inkscape
-inputattach
-insserv
-install-info
-intel-microcode
-intltool-debian
-inxi
-ippusbxd
-iproute
-iproute2
-iptables
-iputils-arping
-iputils-ping
-iputils-tracepath
-irqbalance
-isc-dhcp-client
-isc-dhcp-common
-iso-codes
-iw
-jovie
-k3b
-kate
-kate-data
-kate5-data
-kbd
-kerneloops-daemon
-keyboard-configuration
-klibc-utils
-kmod
-krb5-locales
-ktorrent
-language-pack-en
-language-pack-en-base
-language-pack-gnome-en
-language-pack-gnome-en-base
-language-pack-gnome-ru
-language-pack-ru
-language-selector-common
-language-selector-gnome
-laptop-detect
-less
-libaa1
-libaacs0
-libabw-0.1-1v5
-libaccountsservice0
-libacl1
-libalgorithm-c3-perl
-libalgorithm-diff-perl
-libalgorithm-diff-xs-perl
-libalgorithm-merge-perl
-libapparmor-perl
-libapparmor1
-libappindicator3-1
-libapt-pkg-perl
-libarchive-extract-perl
-libarchive-zip-perl
-libarchive13
-libart-2.0-2
-libasan2
-libasn1-8-heimdal
-libasound2
-libasound2-data
-libasound2-plugins
-libaspell15
-libasprintf-dev
-libasprintf0v5
-libassuan0
-libasyncns0
-libatasmart4
-libatk-bridge2.0-0
-libatk1.0-0
-libatk1.0-data
-libatkmm-1.6-1v5
-libatm1
-libatomic1
-libatspi2.0-0
-libattr1
-libaudit-common
-libaudit1
-libauthen-sasl-perl
-libavahi-client3
-libavahi-common-data
-libavahi-common3
-libavahi-core7
-libavahi-glib1
-libavc1394-0
-libavcodec-extra
-libavformat-ffmpeg56
-libavutil-ffmpeg54
-libb-hooks-endofscope-perl
-libb-hooks-op-check-perl
-libbabeltrace-ctf1
-libbabeltrace1
-libbareword-filehandles-perl
-libbdplus0
-libblkid1
-libbluetooth3
-libbluray1
-libbonobo2-0
-libboost-date-time1.58.0
-libboost-filesystem1.58.0
-libboost-iostreams1.58.0
-libboost-system1.58.0
-libbrlapi0.6
-libbsd0
-libburn4
-libbz2-1.0
-libc-bin
-libc-dev-bin
-libc6
-libc6-dbg
-libc6-dev
-libcaca0
-libcairo-gobject2
-libcairo-perl
-libcairo2
-libcairomm-1.0-1v5
-libcanberra-gtk3-0
-libcanberra-gtk3-module
-libcanberra0
-libcap-ng0
-libcap2
-libcap2-bin
-libcc1-0
-libcdio-cdda1
-libcdio-paranoia1
-libcdio13
-libcdparanoia0
-libcgi-fast-perl
-libcgi-pm-perl
-libcgmanager0
-libcilkrts5
-libclass-accessor-perl
-libclass-c3-perl
-libclass-c3-xs-perl
-libclass-method-modifiers-perl
-libclass-xsaccessor-perl
-libclone-perl
-libclucene-contribs1v5
-libclucene-core1v5
-libclutter-1.0-0
-libclutter-1.0-common
-libclutter-gst-2.0-0
-libclutter-gtk-1.0-0
-libcmis-0.5-5v5
-libcogl-common
-libcogl-pango20
-libcogl-path20
-libcogl20
-libcolord2
-libcolorhug2
-libcomerr2
-libcpan-changes-perl
-libcpan-meta-perl
-libcroco3
-libcryptsetup4
-libcups2
-libcupscgi1
-libcupsfilters1
-libcupsimage2
-libcupsmime1
-libcupsppdc1
-libcurl3
-libcurl3-gnutls
-libdaemon0
-libdata-optlist-perl
-libdata-perl-perl
-libdata-section-perl
-libdatrie1
-libdb5.3
-libdbus-1-3
-libdbus-glib-1-2
-libdbusmenu-glib4
-libdbusmenu-gtk3-4
-libdbusmenu-gtk4
-libdconf1
-libdebconfclient0
-libdee-1.0-4
-libdevel-caller-perl
-libdevel-globaldestruction-perl
-libdevel-lexalias-perl
-libdevmapper1.02.1
-libdigest-crc-perl
-libdigest-hmac-perl
-libdjvulibre-text
-libdjvulibre21
-libdotconf0
-libdpkg-perl
-libdrm-amdgpu1
-libdrm-intel1
-libdrm-nouveau2
-libdrm-radeon1
-libdrm2
-libdv4
-libdvdcss2
-libe-book-0.1-1
-libedit2
-libegl1-mesa
-libelf1
-libemail-valid-perl
-libenchant1c2a
-libencode-locale-perl
-libeot0
-libepoxy0
-libespeak1
-libestr0
-libetonyek-0.1-1
-libevdev2
-libevdocument3-4
-libevent-2.0-5
-libevview3-3
-libexif12
-libexo-1-0
-libexo-common
-libexo-helpers
-libexpat1
-libexporter-tiny-perl
-libexttextcat-2.0-0
-libexttextcat-data
-libextutils-depends-perl
-libextutils-pkgconfig-perl
-libfakeroot
-libfarstream-0.2-5
-libfcgi-perl
-libfdisk1
-libffi6
-libfftw3-single3
-libfile-basedir-perl
-libfile-copy-recursive-perl
-libfile-desktopentry-perl
-libfile-fcntllock-perl
-libfile-listing-perl
-libfile-mimeinfo-perl
-libfile-slurp-perl
-libflac8
-libfont-afm-perl
-libfontconfig1
-libfontembed1
-libfontenc1
-libfreetype6
-libfribidi0
-libfuse2
-libgarcon-1-0
-libgarcon-common
-libgbm1
-libgcc-5-dev
-libgcc1
-libgck-1-0
-libgconf-2-4
-libgcr-3-common
-libgcr-base-3-1
-libgcr-ui-3-1
-libgcrypt20
-libgd3
-libgdbm3
-libgdk-pixbuf2.0-0
-libgdk-pixbuf2.0-common
-libgee-0.8-2
-libgeoclue0
-libgeoip1
-libgetopt-long-descriptive-perl
-libgettextpo-dev
-libgettextpo0
-libgirepository-1.0-1
-libgl1-mesa-dri
-libgl1-mesa-glx
-libglapi-mesa
-libglib-object-introspection-perl
-libglib-perl
-libglib2.0-0
-libglib2.0-bin
-libglib2.0-data
-libglibmm-2.4-1v5
-libglu1-mesa
-libgme0
-libgmp10
-libgnome-keyring-common
-libgnome-keyring0
-libgnome-menu-3-0
-libgnome2-common
-libgnutls-dev
-libgnutls-openssl27
-libgomp1
-libgpg-error0
-libgphoto2-6
-libgphoto2-l10n
-libgphoto2-port12
-libgpm2
-libgraphite2-3
-libgs9
-libgs9-common
-libgssapi-krb5-2
-libgssapi3-heimdal
-libgssdp-1.0-3
-libgstreamer-plugins-base1.0-0
-libgstreamer-plugins-good1.0-0
-libgstreamer1.0-0
-libgtk-3-0
-libgtk-3-bin
-libgtk-3-common
-libgtk2-notify-perl
-libgtk2-perl
-libgtk2-trayicon-perl
-libgtk2.0-0
-libgtk2.0-bin
-libgtk2.0-common
-libgtkmm-3.0-1v5
-libgtksourceview-3.0-1
-libgtksourceview-3.0-common
-libgtkspell0
-libgucharmap-2-90-7
-libgudev-1.0-0
-libgupnp-1.0-4
-libgupnp-igd-1.0-4
-libgusb2
-libgutenprint2
-libgxps2
-libharfbuzz-icu0
-libharfbuzz0b
-libhcrypto4-heimdal
-libheimbase1-heimdal
-libheimntlm0-heimdal
-libhogweed4
-libhpmud0
-libhtml-form-perl
-libhtml-format-perl
-libhtml-parser-perl
-libhtml-tagset-perl
-libhtml-tree-perl
-libhttp-cookies-perl
-libhttp-daemon-perl
-libhttp-date-perl
-libhttp-message-perl
-libhttp-negotiate-perl
-libhunspell-1.3-0
-libhx509-5-heimdal
-libhyphen0
-libical1a
-libice6
-libicu55
-libidn11
-libido3-0.1-0
-libiec61883-0
-libieee1284-3
-libijs-0.35
-libimport-into-perl
-libindicator3-7
-libindirect-perl
-libinput10
-libintl-perl
-libio-html-perl
-libio-pty-perl
-libio-socket-inet6-perl
-libio-socket-ssl-perl
-libio-string-perl
-libio-stringy-perl
-libipc-run-perl
-libipc-system-simple-perl
-libisofs6
-libitm1
-libiw30
-libjack-jackd2-0
-libjavascriptcoregtk-3.0-0
-libjbig0
-libjbig2dec0
-libjpeg-turbo8
-libjpeg8
-libjson-c2
-libjson-glib-1.0-0
-libjson-glib-1.0-common
-libjte1
-libk5crypto3
-libkeybinder0
-libkeyutils1
-libklibc
-libkmod2
-libkpathsea6
-libkrb5-26-heimdal
-libkrb5-3
-libkrb5support0
-liblangtag-common
-liblangtag1
-liblcms2-2
-liblcms2-utils
-libldap-2.4-2
-libldb1
-liblexical-sealrequirehints-perl
-liblightdm-gobject-1-0
-liblist-moreutils-perl
-libllvm3.6v5
-liblocale-gettext-perl
-liblog-message-perl
-liblog-message-simple-perl
-liblsan0
-libltdl7
-liblwp-mediatypes-perl
-liblwp-protocol-https-perl
-liblzma5
-liblzo2-2
-libmagic1
-libmailtools-perl
-libmbim-glib4
-libmbim-proxy
-libmeanwhile1
-libmessaging-menu0
-libmhash2
-libminiupnpc10
-libmirclient9
-libmircommon5
-libmirprotobuf3
-libmm-glib0
-libmms0
-libmnl0
-libmodplug1
-libmodule-build-perl
-libmodule-implementation-perl
-libmodule-pluggable-perl
-libmodule-runtime-perl
-libmodule-signature-perl
-libmoo-perl
-libmoox-handlesvia-perl
-libmount1
-libmpc3
-libmpdec2
-libmpfr4
-libmpx0
-libmro-compat-perl
-libmtdev1
-libmtp-common
-libmtp-runtime
-libmtp9
-libmultidimensional-perl
-libmythes-1.2-0
-libnamespace-autoclean-perl
-libnamespace-clean-perl
-libnatpmp1
-libnautilus-extension1a
-libncurses5
-libncursesw5
-libndp0
-libneon27-gnutls
-libnet-dbus-perl
-libnet-dns-perl
-libnet-domain-tld-perl
-libnet-http-perl
-libnet-ip-perl
-libnet-smtp-ssl-perl
-libnet-ssleay-perl
-libnetfilter-conntrack3
-libnettle6
-libnewt0.52
-libnfnetlink0
-libnice10
-libnih-dbus1
-libnih1
-libnl-3-200
-libnl-genl-3-200
-libnl-route-3-200
-libnm-glib-vpn1
-libnm-glib4
-libnm-gtk-common
-libnm-gtk0
-libnm-util2
-libnm0
-libnotify-bin
-libnotify4
-libnspr4
-libnss-mdns
-libnss3
-libnss3-nssdb
-libntdb1
-libnuma1
-libogg0
-liboobs-1-5
-liborc-0.4-0
-liborcus-0.10-0v5
-libotr5
-libp11-kit-gnome-keyring
-libp11-kit0
-libpackage-constants-perl
-libpackage-stash-perl
-libpackage-stash-xs-perl
-libpackagekit-glib2-16
-libpadwalker-perl
-libpam-gnome-keyring
-libpam-modules
-libpam-modules-bin
-libpam-runtime
-libpam-systemd
-libpam0g
-libpango-1.0-0
-libpango-perl
-libpango1.0-0
-libpangocairo-1.0-0
-libpangoft2-1.0-0
-libpangomm-1.4-1v5
-libpangox-1.0-0
-libpangoxft-1.0-0
-libpaper-utils
-libpaper1
-libparams-classify-perl
-libparams-util-perl
-libparams-validate-perl
-libparse-debianchangelog-perl
-libparted2
-libpath-tiny-perl
-libpcap0.8
-libpci3
-libpciaccess0
-libpcre3
-libpcsclite1
-libperlio-gzip-perl
-libpipeline1
-libpixman-1-0
-libplist3
-libplymouth4
-libpng12-0
-libpod-latex-perl
-libpod-markdown-perl
-libpod-readme-perl
-libpolkit-agent-1-0
-libpolkit-backend-1-0
-libpolkit-gobject-1-0
-libpoppler-glib8
-libpopt0
-libportaudio2
-libprotobuf-lite9v5
-libproxy1v5
-libpulse-mainloop-glib0
-libpulse0
-libpulsedsp
-libpurple-bin
-libpurple0
-libpython-stdlib
-libpython2.7
-libpython2.7-minimal
-libpython2.7-stdlib
-libpython3-stdlib
-libqmi-glib1
-libqmi-proxy
-libqqwing2v5
-libquadmath0
-libraptor2-0
-librasqal3
-libraw1394-11
-librdf0
-libreadline5
-libreadline6
-libreoffice
-libreoffice-base-core
-libreoffice-calc
-libreoffice-common
-libreoffice-core
-libreoffice-gtk
-libreoffice-help-en-us
-libreoffice-help-ru
-libreoffice-math
-libreoffice-style-elementary
-libreoffice-style-galaxy
-libreoffice-style-human
-libreoffice-writer
-librest-0.7-0
-librevenge-0.0-0
-libroken18-heimdal
-librole-tiny-perl
-librsvg2-2
-librsvg2-common
-librtmp1
-libsamplerate0
-libsane
-libsane-common
-libsane-hpaio
-libsasl2-2
-libsasl2-modules
-libsasl2-modules-db
-libseccomp2
-libsecret-1-0
-libsecret-common
-libselinux1
-libsemanage-common
-libsemanage1
-libsensors4
-libsepol1
-libshout3
-libsigc++-2.0-0v5
-libsigsegv2
-libslang2
-libsm6
-libsmartcols1
-libsmbclient
-libsndfile1
-libsnmp-base
-libsnmp30
-libsocket6-perl
-libsoftware-license-perl
-libsonic0
-libsoup-gnome2.4-1
-libsoup2.4-1
-libspectre1
-libspeechd2
-libspeex1
-libspeexdsp1
-libsqlite3-0
-libss2
-libssh-gcrypt-4
-libssl-dev
-libssl1.0.0
-libstartup-notification0
-libstdc++-5-dev
-libstdc++6
-libstrictures-perl
-libsub-exporter-perl
-libsub-exporter-progressive-perl
-libsub-identify-perl
-libsub-install-perl
-libsub-name-perl
-libsvga1
-libsvga1-dev
-libsystemd0
-libtag1v5
-libtag1v5-vanilla
-libtagc0
-libtalloc2
-libtasn1-6
-libtcl8.6
-libtdb1
-libterm-ui-perl
-libtevent0
-libtext-charwidth-perl
-libtext-iconv-perl
-libtext-levenshtein-perl
-libtext-soundex-perl
-libtext-template-perl
-libtext-wrapi18n-perl
-libthai-data
-libthai0
-libtheora0
-libthunarx-2-0
-libtie-ixhash-perl
-libtiff5
-libtimedate-perl
-libtinfo5
-libtk8.6
-libtry-tiny-perl
-libtsan0
-libtumbler-1-0
-libtxc-dxtn-s2tc0
-libtype-tiny-perl
-libtype-tiny-xs-perl
-libubsan0
-libudev1
-libudisks2-0
-libunicode-utf8-perl
-libunique-1.0-0
-libunistring0
-libunity-protocol-private0
-libunity-scopes-json-def-desktop
-libunity9
-libupower-glib3
-liburi-perl
-liburl-dispatcher1
-libusb-0.1-4
-libusb-1.0-0
-libustr-1.0-1
-libutempter0
-libuuid-perl
-libuuid1
-libv4l-0
-libv4lconvert0
-libvariable-magic-perl
-libvirt-bin
-libvisual-0.4-0
-libvisual-0.4-plugins
-libvorbis0a
-libvorbisenc2
-libvorbisfile3
-libvte-2.91-0
-libvte-2.91-common
-libvte-common
-libvte9
-libwavpack1
-libwayland-client0
-libwayland-cursor0
-libwayland-egl1-mesa
-libwayland-server0
-libwbclient0
-libwebkitgtk-3.0-0
-libwebkitgtk-3.0-common
-libwebp5
-libwebpmux1
-libwebrtc-audio-processing-0
-libwhoopsie0
-libwind0-heimdal
-libwnck-3-0
-libwnck-3-common
-libwnck-common
-libwnck22
-libwpd-0.10-10
-libwpg-0.3-3
-libwps-0.4-4
-libwrap0
-libwww-perl
-libwww-robotrules-perl
-libx11-6
-libx11-data
-libx11-protocol-perl
-libx11-xcb1
-libx86-1
-libxapian22v5
-libxatracker2
-libxau6
-libxaw7
-libxcb-dri2-0
-libxcb-dri3-0
-libxcb-glx0
-libxcb-present0
-libxcb-render0
-libxcb-shape0
-libxcb-shm0
-libxcb-sync1
-libxcb-util1
-libxcb-xfixes0
-libxcb1
-libxcomposite1
-libxcursor1
-libxdamage1
-libxdmcp6
-libxext6
-libxfce4panel-2.0-4
-libxfce4ui-1-0
-libxfce4ui-2-0
-libxfce4ui-common
-libxfce4ui-utils
-libxfce4util-bin
-libxfce4util-common
-libxfce4util7
-libxfcegui4-4
-libxfconf-0-2
-libxfixes3
-libxfont1
-libxft2
-libxi6
-libxinerama1
-libxkbcommon0
-libxkbfile1
-libxklavier16
-libxml-parser-perl
-libxml-twig-perl
-libxml-xpathengine-perl
-libxml2
-libxmu6
-libxmuu1
-libxpm4
-libxrandr2
-libxrender1
-libxres1
-libxshmfence1
-libxslt1.1
-libxss1
-libxt6
-libxtst6
-libxv1
-libxvmc1
-libxxf86dga1
-libxxf86vm1
-libyajl2
-libyaml-tiny-perl
-libyelp0
-libzephyr4
-light-locker
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-lintian
-linux-generic
-linux-generic-lts-xenial
-linux-headers-4.6.6-040606
-linux-headers-4.6.6-040606-generic
-linux-headers-generic-lts-xenial
-linux-image-4.6.6-040606-generic
-linux-image-generic-lts-xenial
-linux-libc-dev
-linux-sound-base
-lm-sensors
-locales
-login
-logrotate
-lp-solve
-lsb-base
-lsb-release
-lshw
-lsof
-ltrace
-make
-makedev
-man-db
-manpages
-manpages-dev
-mawk
-memtest86+
-menulibre
-mesa-utils
-mime-support
-mlocate
-mobile-broadband-provider-info
-modemmanager
-module-init-tools
-mount
-mountall
-mousepad
-mplayer
-mscompress
-mtr-tiny
-mugshot
-multiarch-support
-multisystem
-myspell-en-au
-myspell-en-gb
-myspell-en-za
-mysql-workbench
-mythes-en-us
-mythes-ru
-nano
-nasm
-ncurses-base
-ncurses-bin
-nemo
-net-tools
-netbase
-netcat-openbsd
-network-manager
-network-manager-gnome
-network-manager-pptp
-network-manager-pptp-gnome
-nmap
-ntfs-3g
-ntp
-numix-gtk-theme
-okular
-onboard
-onboard-data
-oneconf
-oneconf-common
-openoffice.org-hyphenation
-openprinting-ppds
-openshot
-openssh-client
-openssl
-opera-stable:i386
-orage
-os-prober
-oxideqt-codecs-extra
-p11-kit
-p11-kit-modules
-parole
-parted
-passwd
-pastebinit
-patch
-patchutils
-pavucontrol
-pciutils
-pcmciautils
-perl
-perl-base
-pidgin
-pidgin-data
-pidgin-libnotify
-pidgin-otr
-pinentry-gtk2
-pkg-config
-playonlinux
-plexmediaserver
-plymouth
-plymouth-label
-plymouth-theme-ubuntu-text
-plymouth-theme-xubuntu-logo
-plymouth-theme-xubuntu-text
-pm-utils
-policykit-1
-policykit-1-gnome
-policykit-desktop-privileges
-poppler-data
-poppler-utils
-popularity-contest
-powermgmt-base
-ppp
-pppconfig
-pppoeconf
-pptp-linux
-printer-driver-brlaser
-printer-driver-c2esp
-printer-driver-foo2zjs
-printer-driver-foo2zjs-common
-printer-driver-gutenprint
-printer-driver-hpcups
-printer-driver-min12xxw
-printer-driver-pnm2ppa
-printer-driver-postscript-hp
-printer-driver-ptouch
-printer-driver-pxljr
-printer-driver-sag-gdi
-printer-driver-splix
-procps
-psmisc
-pulseaudio
-pulseaudio-module-x11
-pulseaudio-utils
-pwgen
-python
-python-apt
-python-apt-common
-python-aptdaemon
-python-aptdaemon.gtk3widgets
-python-blinker
-python-bs4
-python-cairo
-python-cffi
-python-cffi-backend
-python-characteristic
-python-chardet
-python-cryptography
-python-cups
-python-dbus
-python-dbus-dev
-python-debian
-python-debtagshw
-python-defer
-python-defusedxml
-python-dirspec
-python-enum34
-python-gi
-python-gi-cairo
-python-html5lib
-python-httplib2
-python-idna
-python-ipaddress
-python-jwt
-python-lxml
-python-magic
-python-minimal
-python-oauthlib
-python-oneconf
-python-openssl
-python-pam
-python-piston-mini-client
-python-pkg-resources
-python-ply
-python-pyasn1
-python-pyasn1-modules
-python-pycparser
-python-scapy
-python-serial
-python-service-identity
-python-six
-python-soappy
-python-talloc
-python-twisted-bin
-python-twisted-core
-python-twisted-web
-python-ubuntu-sso-client
-python-wstools
-python-xapian
-python-xdg
-python-zope.interface
-python2.7
-python2.7-minimal
-python3
-python3-apport
-python3-apt
-python3-aptdaemon
-python3-aptdaemon.gtk3widgets
-python3-aptdaemon.pkcompat
-python3-blinker
-python3-bs4
-python3-cairo
-python3-cffi
-python3-cffi-backend
-python3-chardet
-python3-commandnotfound
-python3-cryptography
-python3-cups
-python3-cupshelpers
-python3-dbus
-python3-debian
-python3-defer
-python3-distupgrade
-python3-gdbm
-python3-gi
-python3-gi-cairo
-python3-html5lib
-python3-httplib2
-python3-idna
-python3-jwt
-python3-lxml
-python3-minimal
-python3-oauthlib
-python3-oneconf
-python3-pexpect
-python3-pil
-python3-piston-mini-client
-python3-pkg-resources
-python3-ply
-python3-problem-report
-python3-psutil
-python3-pyasn1
-python3-pycparser
-python3-pycurl
-python3-renderpm
-python3-reportlab
-python3-reportlab-accel
-python3-requests
-python3-six
-python3-smbc
-python3-software-properties
-python3-uno
-python3-update-manager
-python3-urllib3
-python3-xdg
-python3-xkit
-qbittorrent
-qemu-system
-qemu-user
-qpdf
-rar
-readline-common
-rename
-resolvconf
-rfkill
-ristretto
-rsync
-rsyslog
-rtkit
-ruby
-samba
-samba-libs
-sane-utils
-sed
-sensible-utils
-sessioninstaller
-sgml-base
-shared-mime-info
-shimmer-themes
-simple-scan
-smplayer
-snapd
-software-center
-software-center-aptdaemon-plugins
-software-properties-common
-software-properties-gtk
-sound-theme-freedesktop
-speech-dispatcher
-speech-dispatcher-audio-plugins
-ssl-cert
-strace
-sublime-text
-sudo
-synaptic
-sysinfo
-system-config-printer-common
-system-config-printer-gnome
-system-config-printer-udev
-system-config-samba
-system-tools-backends
-systemd
-systemd-sysv
-sysv-rc
-sysvinit-utils
-t1utils
-tar
-tcl
-tcl8.6
-tcpd
-tcpdump
-telnet
-testdisk
-thunar
-thunar-archive-plugin
-thunar-data
-thunar-media-tags-plugin
-thunar-volman
-thunderbird
-thunderbird-locale-en
-thunderbird-locale-en-us
-thunderbird-locale-ru
-time
-tk
-tk8.6
-toshset
-transmission-common
-transmission-gtk
-ttf-ancient-fonts-symbola
-ttf-ubuntu-font-family
-tumbler
-tumbler-common
-tzdata
-ucf
-udev
-udisks2
-ufw
-unattended-upgrades
-uno-libs3
-unoconv
-unrar
-unzip
-update-inetd
-update-manager
-update-manager-core
-update-notifier
-update-notifier-common
-upower
-upstart
-ure
-ureadahead
-usb-modeswitch
-usb-modeswitch-data
-usbmuxd
-usbutils
-util-linux
-uuid-runtime
-vbetool
-viewnior
-vim
-vim-common
-vim-tiny
-virt-manager
-virtualbox
-vlc
-vlc-data
-vlc-plugin-fluidsynth
-vlc-plugin-jack
-vlc-plugin-notify
-vlc-plugin-samba
-vlc-plugin-sdl
-vlc-plugin-svg
-vlc-plugin-zvbi
-wamerican
-wbritish
-wget
-whiptail
-whoopsie
-wireless-regdb
-wireless-tools
-wireshark
-wpasupplicant
-yandex-browser-beta
-yelp
-yelp-xsl
-yumi
-zenity
-zenity-common
-zip
-zlib1g
+accountsservice					install
+acetoneiso					install
+acl					install
+acpi-support					install
+acpid					install
+adduser					install
+adobe-flashplugin:i386					install
+adwaita-icon-theme					install
+alsa-base					install
+alsa-utils					install
+amarok					install
+anacron					install
+app-install-data					install
+app-install-data-partner					install
+apparmor					install
+apport					install
+apport-gtk					install
+apport-symptoms					install
+apt					install
+apt-offline					install
+apt-utils					install
+apt-xapian-index					install
+aptdaemon					install
+aptdaemon-data					install
+aspell					install
+aspell-en					install
+astyle					install
+at-spi2-core					install
+atom					install
+audacity					install
+avahi-autoipd					install
+avahi-daemon					install
+avahi-utils					install
+base-files					install
+base-passwd					install
+bash					install
+bash-completion					install
+bc					install
+bind9-host					install
+binutils					install
+blender					install
+blueman					install
+bluez					install
+bluez-cups					install
+bluez-obexd					install
+brltty					install
+brltty-x11					install
+browser-plugin-vlc					install
+bsdmainutils					install
+bsdutils					install
+build-essential					install
+busybox-initramfs					install
+busybox-static					install
+bzip2					install
+ca-certificates					install
+catfish					install
+cheese-common					install
+chromium-codecs-ffmpeg-extra					install
+colord					install
+colord-data					install
+command-not-found					install
+command-not-found-data					install
+conky-manager					install
+console-setup					install
+console-setup-linux					install
+coreutils					install
+cpio					install
+cpp					install
+cpp-5					install
+crda					install
+cron					install
+cups					install
+cups-browsed					install
+cups-bsd					install
+cups-client					install
+cups-common					install
+cups-core-drivers					install
+cups-daemon					install
+cups-filters					install
+cups-filters-core-drivers					install
+cups-ppdc					install
+cups-server-common					install
+dash					install
+dbus					install
+dbus-x11					install
+dc					install
+dconf-gsettings-backend					install
+dconf-service					install
+debconf					install
+debconf-i18n					install
+debian-archive-keyring					install
+debianutils					install
+desktop-base					install
+desktop-file-utils					install
+dh-python					install
+dialog					install
+dictionaries-common					install
+diffstat					install
+diffutils					install
+divxcomp					install
+dkms					install
+dmidecode					install
+dmsetup					install
+dmz-cursor-theme					install
+dns-root-data					install
+dnsmasq-base					install
+dnsutils					install
+doc-base					install
+dosfstools					install
+dpkg					install
+dpkg-dev					install
+e2fslibs					install
+e2fsprogs					install
+ed					install
+eject					install
+emacsen-common					install
+enchant					install
+eog					install
+eog-plugins					install
+espeak					install
+espeak-data					install
+ettercap-graphical:i386					install
+evince					install
+evince-common					install
+exo-utils					install
+fakeroot					install
+ffmpeg					install
+ffmpegthumbnailer					install
+file					install
+file-roller					install
+findutils					install
+firefox					install
+firefox-locale-en					install
+firefox-locale-ru					install
+firehol					install
+fontconfig					install
+fontconfig-config					install
+fonts-dejavu-core					install
+fonts-freefont-ttf					install
+fonts-guru					install
+fonts-guru-extra					install
+fonts-kacst					install
+fonts-kacst-one					install
+fonts-khmeros-core					install
+fonts-lao					install
+fonts-liberation					install
+fonts-lklug-sinhala					install
+fonts-lohit-guru					install
+fonts-nanum					install
+fonts-noto-cjk					install
+fonts-noto-hinted					install
+fonts-opensymbol					install
+fonts-sil-abyssinica					install
+fonts-sil-padauk					install
+fonts-takao-pgothic					install
+fonts-thai-tlwg					install
+fonts-tibetan-machine					install
+fonts-tlwg-garuda					install
+fonts-tlwg-kinnari					install
+fonts-tlwg-laksaman					install
+fonts-tlwg-loma					install
+fonts-tlwg-mono					install
+fonts-tlwg-norasi					install
+fonts-tlwg-purisa					install
+fonts-tlwg-sawasdee					install
+fonts-tlwg-typewriter					install
+fonts-tlwg-typist					install
+fonts-tlwg-typo					install
+fonts-tlwg-umpush					install
+fonts-tlwg-waree					install
+foomatic-db-compressed-ppds					install
+fping					install
+friendly-recovery					install
+ftp					install
+fuse					install
+fwupd					install
+fwupdate-signed					install
+g++					install
+g++-5					install
+gawk					install
+gcc					install
+gcc-5					install
+gcc-5-base					install
+gconf-service					install
+gconf-service-backend					install
+gconf2					install
+gconf2-common					install
+gcr					install
+gdb					install
+gdbserver					install
+gdebi					install
+gdisk					install
+gedit-common					install
+gedit-dev					install
+gedit-plugins					install
+genisoimage					install
+geoip-database					install
+gettext					install
+gettext-base					install
+ghostscript					install
+ghostscript-x					install
+gigolo					install
+gimp					install
+gimp-data					install
+gir1.2-appindicator3-0.1					install
+gir1.2-atk-1.0					install
+gir1.2-atspi-2.0					install
+gir1.2-cheese-3.0					install
+gir1.2-clutter-1.0					install
+gir1.2-cogl-1.0					install
+gir1.2-coglpango-1.0					install
+gir1.2-freedesktop					install
+gir1.2-gdkpixbuf-2.0					install
+gir1.2-glib-2.0					install
+gir1.2-gmenu-3.0					install
+gir1.2-gnomekeyring-1.0					install
+gir1.2-gst-plugins-base-1.0					install
+gir1.2-gstreamer-1.0					install
+gir1.2-gtk-3.0					install
+gir1.2-gtkclutter-1.0					install
+gir1.2-gudev-1.0					install
+gir1.2-javascriptcoregtk-3.0					install
+gir1.2-json-1.0					install
+gir1.2-notify-0.7					install
+gir1.2-packagekitglib-1.0					install
+gir1.2-pango-1.0					install
+gir1.2-soup-2.4					install
+gir1.2-vte-2.91					install
+gir1.2-webkit-3.0					install
+gir1.2-wnck-3.0					install
+git					install
+gitk					install
+gksu					install
+glib-networking					install
+glib-networking-common					install
+glib-networking-services					install
+gmusicbrowser					install
+gnome-accessibility-themes					install
+gnome-calculator					install
+gnome-icon-theme					install
+gnome-icon-theme-symbolic					install
+gnome-keyring					install
+gnome-menus					install
+gnome-mines					install
+gnome-software					install
+gnome-sudoku					install
+gnome-system-tools					install
+gnome-terminal					install
+gnome-themes-standard					install
+gnome-themes-standard-data					install
+gnome-user-guide					install
+gnupg					install
+gparted					install
+gpgv					install
+grep					install
+greybird-gtk-theme					install
+groff-base					install
+grub-common					install
+grub-gfxpayload-lists					install
+grub-pc					install
+grub-pc-bin					install
+grub2-common					install
+gsettings-desktop-schemas					install
+gsettings-ubuntu-schemas					install
+gsfonts					install
+gstreamer1.0-clutter					install
+gstreamer1.0-fluendo-mp3					install
+gstreamer1.0-libav					install
+gstreamer1.0-nice					install
+gstreamer1.0-plugins-bad					install
+gstreamer1.0-plugins-base					install
+gstreamer1.0-plugins-base-apps					install
+gstreamer1.0-plugins-good					install
+gstreamer1.0-plugins-ugly					install
+gstreamer1.0-pulseaudio					install
+gstreamer1.0-tools					install
+gstreamer1.0-x					install
+gtk-theme-config					install
+gtk2-engines-murrine					install
+gtk2-engines-pixbuf					install
+gtkdialog					install
+gucharmap					install
+guvcview					install
+gvfs					install
+gvfs-backends					install
+gvfs-bin					install
+gvfs-common					install
+gvfs-daemons					install
+gvfs-fuse					install
+gvfs-libs					install
+gzip					install
+handbrake					install
+hardening-includes					install
+hddtemp					install
+hdparm					install
+hicolor-icon-theme					install
+hostname					install
+hping3					install
+hplip					install
+hplip-data					install
+humanity-icon-theme					install
+hunspell-en-us					install
+hunspell-ru					install
+hyphen-en-us					install
+hyphen-ru					install
+ifupdown					install
+im-config					install
+indicator-application					install
+indicator-messages					install
+indicator-sound					install
+indicator-sound-gtk2					install
+info					install
+init					install
+init-system-helpers					install
+initramfs-tools					install
+initramfs-tools-bin					install
+initscripts					install
+inkscape					install
+inputattach					install
+insserv					install
+install-info					install
+intel-microcode					install
+intltool-debian					install
+inxi					install
+ippusbxd					install
+iproute					install
+iproute2					install
+iptables					install
+iputils-arping					install
+iputils-ping					install
+iputils-tracepath					install
+irqbalance					install
+isc-dhcp-client					install
+isc-dhcp-common					install
+iso-codes					install
+iw					install
+jovie					install
+k3b					install
+kate					install
+kate-data					install
+kate5-data					install
+kbd					install
+kerneloops-daemon					install
+keyboard-configuration					install
+klibc-utils					install
+kmod					install
+krb5-locales					install
+ktorrent					install
+language-pack-en					install
+language-pack-en-base					install
+language-pack-gnome-en					install
+language-pack-gnome-en-base					install
+language-pack-gnome-ru					install
+language-pack-ru					install
+language-selector-common					install
+language-selector-gnome					install
+laptop-detect					install
+less					install
+libaa1					install
+libaacs0					install
+libabw-0.1-1v5					install
+libaccountsservice0					install
+libacl1					install
+libalgorithm-c3-perl					install
+libalgorithm-diff-perl					install
+libalgorithm-diff-xs-perl					install
+libalgorithm-merge-perl					install
+libapparmor-perl					install
+libapparmor1					install
+libappindicator3-1					install
+libapt-pkg-perl					install
+libarchive-extract-perl					install
+libarchive-zip-perl					install
+libarchive13					install
+libart-2.0-2					install
+libasan2					install
+libasn1-8-heimdal					install
+libasound2					install
+libasound2-data					install
+libasound2-plugins					install
+libaspell15					install
+libasprintf-dev					install
+libasprintf0v5					install
+libassuan0					install
+libasyncns0					install
+libatasmart4					install
+libatk-bridge2.0-0					install
+libatk1.0-0					install
+libatk1.0-data					install
+libatkmm-1.6-1v5					install
+libatm1					install
+libatomic1					install
+libatspi2.0-0					install
+libattr1					install
+libaudit-common					install
+libaudit1					install
+libauthen-sasl-perl					install
+libavahi-client3					install
+libavahi-common-data					install
+libavahi-common3					install
+libavahi-core7					install
+libavahi-glib1					install
+libavc1394-0					install
+libavcodec-extra					install
+libavformat-ffmpeg56					install
+libavutil-ffmpeg54					install
+libb-hooks-endofscope-perl					install
+libb-hooks-op-check-perl					install
+libbabeltrace-ctf1					install
+libbabeltrace1					install
+libbareword-filehandles-perl					install
+libbdplus0					install
+libblkid1					install
+libbluetooth3					install
+libbluray1					install
+libbonobo2-0					install
+libboost-date-time1.58.0					install
+libboost-filesystem1.58.0					install
+libboost-iostreams1.58.0					install
+libboost-system1.58.0					install
+libbrlapi0.6					install
+libbsd0					install
+libburn4					install
+libbz2-1.0					install
+libc-bin					install
+libc-dev-bin					install
+libc6					install
+libc6-dbg					install
+libc6-dev					install
+libcaca0					install
+libcairo-gobject2					install
+libcairo-perl					install
+libcairo2					install
+libcairomm-1.0-1v5					install
+libcanberra-gtk3-0					install
+libcanberra-gtk3-module					install
+libcanberra0					install
+libcap-ng0					install
+libcap2					install
+libcap2-bin					install
+libcc1-0					install
+libcdio-cdda1					install
+libcdio-paranoia1					install
+libcdio13					install
+libcdparanoia0					install
+libcgi-fast-perl					install
+libcgi-pm-perl					install
+libcgmanager0					install
+libcilkrts5					install
+libclass-accessor-perl					install
+libclass-c3-perl					install
+libclass-c3-xs-perl					install
+libclass-method-modifiers-perl					install
+libclass-xsaccessor-perl					install
+libclone-perl					install
+libclucene-contribs1v5					install
+libclucene-core1v5					install
+libclutter-1.0-0					install
+libclutter-1.0-common					install
+libclutter-gst-2.0-0					install
+libclutter-gtk-1.0-0					install
+libcmis-0.5-5v5					install
+libcogl-common					install
+libcogl-pango20					install
+libcogl-path20					install
+libcogl20					install
+libcolord2					install
+libcolorhug2					install
+libcomerr2					install
+libcpan-changes-perl					install
+libcpan-meta-perl					install
+libcroco3					install
+libcryptsetup4					install
+libcups2					install
+libcupscgi1					install
+libcupsfilters1					install
+libcupsimage2					install
+libcupsmime1					install
+libcupsppdc1					install
+libcurl3					install
+libcurl3-gnutls					install
+libdaemon0					install
+libdata-optlist-perl					install
+libdata-perl-perl					install
+libdata-section-perl					install
+libdatrie1					install
+libdb5.3					install
+libdbus-1-3					install
+libdbus-glib-1-2					install
+libdbusmenu-glib4					install
+libdbusmenu-gtk3-4					install
+libdbusmenu-gtk4					install
+libdconf1					install
+libdebconfclient0					install
+libdee-1.0-4					install
+libdevel-caller-perl					install
+libdevel-globaldestruction-perl					install
+libdevel-lexalias-perl					install
+libdevmapper1.02.1					install
+libdigest-crc-perl					install
+libdigest-hmac-perl					install
+libdjvulibre-text					install
+libdjvulibre21					install
+libdotconf0					install
+libdpkg-perl					install
+libdrm-amdgpu1					install
+libdrm-intel1					install
+libdrm-nouveau2					install
+libdrm-radeon1					install
+libdrm2					install
+libdv4					install
+libdvdcss2					install
+libe-book-0.1-1					install
+libedit2					install
+libegl1-mesa					install
+libelf1					install
+libemail-valid-perl					install
+libenchant1c2a					install
+libencode-locale-perl					install
+libeot0					install
+libepoxy0					install
+libespeak1					install
+libestr0					install
+libetonyek-0.1-1					install
+libevdev2					install
+libevdocument3-4					install
+libevent-2.0-5					install
+libevview3-3					install
+libexif12					install
+libexo-1-0					install
+libexo-common					install
+libexo-helpers					install
+libexpat1					install
+libexporter-tiny-perl					install
+libexttextcat-2.0-0					install
+libexttextcat-data					install
+libextutils-depends-perl					install
+libextutils-pkgconfig-perl					install
+libfakeroot					install
+libfarstream-0.2-5					install
+libfcgi-perl					install
+libfdisk1					install
+libffi6					install
+libfftw3-single3					install
+libfile-basedir-perl					install
+libfile-copy-recursive-perl					install
+libfile-desktopentry-perl					install
+libfile-fcntllock-perl					install
+libfile-listing-perl					install
+libfile-mimeinfo-perl					install
+libfile-slurp-perl					install
+libflac8					install
+libfont-afm-perl					install
+libfontconfig1					install
+libfontembed1					install
+libfontenc1					install
+libfreetype6					install
+libfribidi0					install
+libfuse2					install
+libgarcon-1-0					install
+libgarcon-common					install
+libgbm1					install
+libgcc-5-dev					install
+libgcc1					install
+libgck-1-0					install
+libgconf-2-4					install
+libgcr-3-common					install
+libgcr-base-3-1					install
+libgcr-ui-3-1					install
+libgcrypt20					install
+libgd3					install
+libgdbm3					install
+libgdk-pixbuf2.0-0					install
+libgdk-pixbuf2.0-common					install
+libgee-0.8-2					install
+libgeoclue0					install
+libgeoip1					install
+libgetopt-long-descriptive-perl					install
+libgettextpo-dev					install
+libgettextpo0					install
+libgirepository-1.0-1					install
+libgl1-mesa-dri					install
+libgl1-mesa-glx					install
+libglapi-mesa					install
+libglib-object-introspection-perl					install
+libglib-perl					install
+libglib2.0-0					install
+libglib2.0-bin					install
+libglib2.0-data					install
+libglibmm-2.4-1v5					install
+libglu1-mesa					install
+libgme0					install
+libgmp10					install
+libgnome-keyring-common					install
+libgnome-keyring0					install
+libgnome-menu-3-0					install
+libgnome2-common					install
+libgnutls-dev					install
+libgnutls-openssl27					install
+libgomp1					install
+libgpg-error0					install
+libgphoto2-6					install
+libgphoto2-l10n					install
+libgphoto2-port12					install
+libgpm2					install
+libgraphite2-3					install
+libgs9					install
+libgs9-common					install
+libgssapi-krb5-2					install
+libgssapi3-heimdal					install
+libgssdp-1.0-3					install
+libgstreamer-plugins-base1.0-0					install
+libgstreamer-plugins-good1.0-0					install
+libgstreamer1.0-0					install
+libgtk-3-0					install
+libgtk-3-bin					install
+libgtk-3-common					install
+libgtk2-notify-perl					install
+libgtk2-perl					install
+libgtk2-trayicon-perl					install
+libgtk2.0-0					install
+libgtk2.0-bin					install
+libgtk2.0-common					install
+libgtkmm-3.0-1v5					install
+libgtksourceview-3.0-1					install
+libgtksourceview-3.0-common					install
+libgtkspell0					install
+libgucharmap-2-90-7					install
+libgudev-1.0-0					install
+libgupnp-1.0-4					install
+libgupnp-igd-1.0-4					install
+libgusb2					install
+libgutenprint2					install
+libgxps2					install
+libharfbuzz-icu0					install
+libharfbuzz0b					install
+libhcrypto4-heimdal					install
+libheimbase1-heimdal					install
+libheimntlm0-heimdal					install
+libhogweed4					install
+libhpmud0					install
+libhtml-form-perl					install
+libhtml-format-perl					install
+libhtml-parser-perl					install
+libhtml-tagset-perl					install
+libhtml-tree-perl					install
+libhttp-cookies-perl					install
+libhttp-daemon-perl					install
+libhttp-date-perl					install
+libhttp-message-perl					install
+libhttp-negotiate-perl					install
+libhunspell-1.3-0					install
+libhx509-5-heimdal					install
+libhyphen0					install
+libical1a					install
+libice6					install
+libicu55					install
+libidn11					install
+libido3-0.1-0					install
+libiec61883-0					install
+libieee1284-3					install
+libijs-0.35					install
+libimport-into-perl					install
+libindicator3-7					install
+libindirect-perl					install
+libinput10					install
+libintl-perl					install
+libio-html-perl					install
+libio-pty-perl					install
+libio-socket-inet6-perl					install
+libio-socket-ssl-perl					install
+libio-string-perl					install
+libio-stringy-perl					install
+libipc-run-perl					install
+libipc-system-simple-perl					install
+libisofs6					install
+libitm1					install
+libiw30					install
+libjack-jackd2-0					install
+libjavascriptcoregtk-3.0-0					install
+libjbig0					install
+libjbig2dec0					install
+libjpeg-turbo8					install
+libjpeg8					install
+libjson-c2					install
+libjson-glib-1.0-0					install
+libjson-glib-1.0-common					install
+libjte1					install
+libk5crypto3					install
+libkeybinder0					install
+libkeyutils1					install
+libklibc					install
+libkmod2					install
+libkpathsea6					install
+libkrb5-26-heimdal					install
+libkrb5-3					install
+libkrb5support0					install
+liblangtag-common					install
+liblangtag1					install
+liblcms2-2					install
+liblcms2-utils					install
+libldap-2.4-2					install
+libldb1					install
+liblexical-sealrequirehints-perl					install
+liblightdm-gobject-1-0					install
+liblist-moreutils-perl					install
+libllvm3.6v5					install
+liblocale-gettext-perl					install
+liblog-message-perl					install
+liblog-message-simple-perl					install
+liblsan0					install
+libltdl7					install
+liblwp-mediatypes-perl					install
+liblwp-protocol-https-perl					install
+liblzma5					install
+liblzo2-2					install
+libmagic1					install
+libmailtools-perl					install
+libmbim-glib4					install
+libmbim-proxy					install
+libmeanwhile1					install
+libmessaging-menu0					install
+libmhash2					install
+libminiupnpc10					install
+libmirclient9					install
+libmircommon5					install
+libmirprotobuf3					install
+libmm-glib0					install
+libmms0					install
+libmnl0					install
+libmodplug1					install
+libmodule-build-perl					install
+libmodule-implementation-perl					install
+libmodule-pluggable-perl					install
+libmodule-runtime-perl					install
+libmodule-signature-perl					install
+libmoo-perl					install
+libmoox-handlesvia-perl					install
+libmount1					install
+libmpc3					install
+libmpdec2					install
+libmpfr4					install
+libmpx0					install
+libmro-compat-perl					install
+libmtdev1					install
+libmtp-common					install
+libmtp-runtime					install
+libmtp9					install
+libmultidimensional-perl					install
+libmythes-1.2-0					install
+libnamespace-autoclean-perl					install
+libnamespace-clean-perl					install
+libnatpmp1					install
+libnautilus-extension1a					install
+libncurses5					install
+libncursesw5					install
+libndp0					install
+libneon27-gnutls					install
+libnet-dbus-perl					install
+libnet-dns-perl					install
+libnet-domain-tld-perl					install
+libnet-http-perl					install
+libnet-ip-perl					install
+libnet-smtp-ssl-perl					install
+libnet-ssleay-perl					install
+libnetfilter-conntrack3					install
+libnettle6					install
+libnewt0.52					install
+libnfnetlink0					install
+libnice10					install
+libnih-dbus1					install
+libnih1					install
+libnl-3-200					install
+libnl-genl-3-200					install
+libnl-route-3-200					install
+libnm-glib-vpn1					install
+libnm-glib4					install
+libnm-gtk-common					install
+libnm-gtk0					install
+libnm-util2					install
+libnm0					install
+libnotify-bin					install
+libnotify4					install
+libnspr4					install
+libnss-mdns					install
+libnss3					install
+libnss3-nssdb					install
+libntdb1					install
+libnuma1					install
+libogg0					install
+liboobs-1-5					install
+liborc-0.4-0					install
+liborcus-0.10-0v5					install
+libotr5					install
+libp11-kit-gnome-keyring					install
+libp11-kit0					install
+libpackage-constants-perl					install
+libpackage-stash-perl					install
+libpackage-stash-xs-perl					install
+libpackagekit-glib2-16					install
+libpadwalker-perl					install
+libpam-gnome-keyring					install
+libpam-modules					install
+libpam-modules-bin					install
+libpam-runtime					install
+libpam-systemd					install
+libpam0g					install
+libpango-1.0-0					install
+libpango-perl					install
+libpango1.0-0					install
+libpangocairo-1.0-0					install
+libpangoft2-1.0-0					install
+libpangomm-1.4-1v5					install
+libpangox-1.0-0					install
+libpangoxft-1.0-0					install
+libpaper-utils					install
+libpaper1					install
+libparams-classify-perl					install
+libparams-util-perl					install
+libparams-validate-perl					install
+libparse-debianchangelog-perl					install
+libparted2					install
+libpath-tiny-perl					install
+libpcap0.8					install
+libpci3					install
+libpciaccess0					install
+libpcre3					install
+libpcsclite1					install
+libperlio-gzip-perl					install
+libpipeline1					install
+libpixman-1-0					install
+libplist3					install
+libplymouth4					install
+libpng12-0					install
+libpod-latex-perl					install
+libpod-markdown-perl					install
+libpod-readme-perl					install
+libpolkit-agent-1-0					install
+libpolkit-backend-1-0					install
+libpolkit-gobject-1-0					install
+libpoppler-glib8					install
+libpopt0					install
+libportaudio2					install
+libprotobuf-lite9v5					install
+libproxy1v5					install
+libpulse-mainloop-glib0					install
+libpulse0					install
+libpulsedsp					install
+libpurple-bin					install
+libpurple0					install
+libpython-stdlib					install
+libpython2.7					install
+libpython2.7-minimal					install
+libpython2.7-stdlib					install
+libpython3-stdlib					install
+libqmi-glib1					install
+libqmi-proxy					install
+libqqwing2v5					install
+libquadmath0					install
+libraptor2-0					install
+librasqal3					install
+libraw1394-11					install
+librdf0					install
+libreadline5					install
+libreadline6					install
+libreoffice					install
+libreoffice-base-core					install
+libreoffice-calc					install
+libreoffice-common					install
+libreoffice-core					install
+libreoffice-gtk					install
+libreoffice-help-en-us					install
+libreoffice-help-ru					install
+libreoffice-math					install
+libreoffice-style-elementary					install
+libreoffice-style-galaxy					install
+libreoffice-style-human					install
+libreoffice-writer					install
+librest-0.7-0					install
+librevenge-0.0-0					install
+libroken18-heimdal					install
+librole-tiny-perl					install
+librsvg2-2					install
+librsvg2-common					install
+librtmp1					install
+libsamplerate0					install
+libsane					install
+libsane-common					install
+libsane-hpaio					install
+libsasl2-2					install
+libsasl2-modules					install
+libsasl2-modules-db					install
+libseccomp2					install
+libsecret-1-0					install
+libsecret-common					install
+libselinux1					install
+libsemanage-common					install
+libsemanage1					install
+libsensors4					install
+libsepol1					install
+libshout3					install
+libsigc++-2.0-0v5					install
+libsigsegv2					install
+libslang2					install
+libsm6					install
+libsmartcols1					install
+libsmbclient					install
+libsndfile1					install
+libsnmp-base					install
+libsnmp30					install
+libsocket6-perl					install
+libsoftware-license-perl					install
+libsonic0					install
+libsoup-gnome2.4-1					install
+libsoup2.4-1					install
+libspectre1					install
+libspeechd2					install
+libspeex1					install
+libspeexdsp1					install
+libsqlite3-0					install
+libss2					install
+libssh-gcrypt-4					install
+libssl-dev					install
+libssl1.0.0					install
+libstartup-notification0					install
+libstdc++-5-dev					install
+libstdc++6					install
+libstrictures-perl					install
+libsub-exporter-perl					install
+libsub-exporter-progressive-perl					install
+libsub-identify-perl					install
+libsub-install-perl					install
+libsub-name-perl					install
+libsvga1					install
+libsvga1-dev					install
+libsystemd0					install
+libtag1v5					install
+libtag1v5-vanilla					install
+libtagc0					install
+libtalloc2					install
+libtasn1-6					install
+libtcl8.6					install
+libtdb1					install
+libterm-ui-perl					install
+libtevent0					install
+libtext-charwidth-perl					install
+libtext-iconv-perl					install
+libtext-levenshtein-perl					install
+libtext-soundex-perl					install
+libtext-template-perl					install
+libtext-wrapi18n-perl					install
+libthai-data					install
+libthai0					install
+libtheora0					install
+libthunarx-2-0					install
+libtie-ixhash-perl					install
+libtiff5					install
+libtimedate-perl					install
+libtinfo5					install
+libtk8.6					install
+libtry-tiny-perl					install
+libtsan0					install
+libtumbler-1-0					install
+libtxc-dxtn-s2tc0					install
+libtype-tiny-perl					install
+libtype-tiny-xs-perl					install
+libubsan0					install
+libudev1					install
+libudisks2-0					install
+libunicode-utf8-perl					install
+libunique-1.0-0					install
+libunistring0					install
+libunity-protocol-private0					install
+libunity-scopes-json-def-desktop					install
+libunity9					install
+libupower-glib3					install
+liburi-perl					install
+liburl-dispatcher1					install
+libusb-0.1-4					install
+libusb-1.0-0					install
+libustr-1.0-1					install
+libutempter0					install
+libuuid-perl					install
+libuuid1					install
+libv4l-0					install
+libv4lconvert0					install
+libvariable-magic-perl					install
+libvirt-bin					install
+libvisual-0.4-0					install
+libvisual-0.4-plugins					install
+libvorbis0a					install
+libvorbisenc2					install
+libvorbisfile3					install
+libvte-2.91-0					install
+libvte-2.91-common					install
+libvte-common					install
+libvte9					install
+libwavpack1					install
+libwayland-client0					install
+libwayland-cursor0					install
+libwayland-egl1-mesa					install
+libwayland-server0					install
+libwbclient0					install
+libwebkitgtk-3.0-0					install
+libwebkitgtk-3.0-common					install
+libwebp5					install
+libwebpmux1					install
+libwebrtc-audio-processing-0					install
+libwhoopsie0					install
+libwind0-heimdal					install
+libwnck-3-0					install
+libwnck-3-common					install
+libwnck-common					install
+libwnck22					install
+libwpd-0.10-10					install
+libwpg-0.3-3					install
+libwps-0.4-4					install
+libwrap0					install
+libwww-perl					install
+libwww-robotrules-perl					install
+libx11-6					install
+libx11-data					install
+libx11-protocol-perl					install
+libx11-xcb1					install
+libx86-1					install
+libxapian22v5					install
+libxatracker2					install
+libxau6					install
+libxaw7					install
+libxcb-dri2-0					install
+libxcb-dri3-0					install
+libxcb-glx0					install
+libxcb-present0					install
+libxcb-render0					install
+libxcb-shape0					install
+libxcb-shm0					install
+libxcb-sync1					install
+libxcb-util1					install
+libxcb-xfixes0					install
+libxcb1					install
+libxcomposite1					install
+libxcursor1					install
+libxdamage1					install
+libxdmcp6					install
+libxext6					install
+libxfce4panel-2.0-4					install
+libxfce4ui-1-0					install
+libxfce4ui-2-0					install
+libxfce4ui-common					install
+libxfce4ui-utils					install
+libxfce4util-bin					install
+libxfce4util-common					install
+libxfce4util7					install
+libxfcegui4-4					install
+libxfconf-0-2					install
+libxfixes3					install
+libxfont1					install
+libxft2					install
+libxi6					install
+libxinerama1					install
+libxkbcommon0					install
+libxkbfile1					install
+libxklavier16					install
+libxml-parser-perl					install
+libxml-twig-perl					install
+libxml-xpathengine-perl					install
+libxml2					install
+libxmu6					install
+libxmuu1					install
+libxpm4					install
+libxrandr2					install
+libxrender1					install
+libxres1					install
+libxshmfence1					install
+libxslt1.1					install
+libxss1					install
+libxt6					install
+libxtst6					install
+libxv1					install
+libxvmc1					install
+libxxf86dga1					install
+libxxf86vm1					install
+libyajl2					install
+libyaml-tiny-perl					install
+libyelp0					install
+libzephyr4					install
+light-locker					install
+lightdm					install
+lightdm-gtk-greeter					install
+lightdm-gtk-greeter-settings					install
+lintian					install
+linux-generic					install
+linux-generic-lts-xenial					install
+linux-headers-4.6.6-040606					install
+linux-headers-4.6.6-040606-generic					install
+linux-headers-generic-lts-xenial					install
+linux-image-4.6.6-040606-generic					install
+linux-image-generic-lts-xenial					install
+linux-libc-dev					install
+linux-sound-base					install
+lm-sensors					install
+locales					install
+login					install
+logrotate					install
+lp-solve					install
+lsb-base					install
+lsb-release					install
+lshw					install
+lsof					install
+ltrace					install
+make					install
+makedev					install
+man-db					install
+manpages					install
+manpages-dev					install
+mawk					install
+memtest86+					install
+menulibre					install
+mesa-utils					install
+mime-support					install
+mlocate					install
+mobile-broadband-provider-info					install
+modemmanager					install
+module-init-tools					install
+mount					install
+mountall					install
+mousepad					install
+mplayer					install
+mscompress					install
+mtr-tiny					install
+mugshot					install
+multiarch-support					install
+multisystem					install
+myspell-en-au					install
+myspell-en-gb					install
+myspell-en-za					install
+mysql-workbench					install
+mythes-en-us					install
+mythes-ru					install
+nano					install
+nasm					install
+ncurses-base					install
+ncurses-bin					install
+nemo					install
+net-tools					install
+netbase					install
+netcat-openbsd					install
+network-manager					install
+network-manager-gnome					install
+network-manager-pptp					install
+network-manager-pptp-gnome					install
+nmap					install
+ntfs-3g					install
+ntp					install
+numix-gtk-theme					install
+okular					install
+onboard					install
+onboard-data					install
+oneconf					install
+oneconf-common					install
+openoffice.org-hyphenation					install
+openprinting-ppds					install
+openshot					install
+openssh-client					install
+openssl					install
+opera-stable:i386					install
+orage					install
+os-prober					install
+oxideqt-codecs-extra					install
+p11-kit					install
+p11-kit-modules					install
+parole					install
+parted					install
+passwd					install
+pastebinit					install
+patch					install
+patchutils					install
+pavucontrol					install
+pciutils					install
+pcmciautils					install
+perl					install
+perl-base					install
+pidgin					install
+pidgin-data					install
+pidgin-libnotify					install
+pidgin-otr					install
+pinentry-gtk2					install
+pkg-config					install
+playonlinux					install
+plexmediaserver					install
+plymouth					install
+plymouth-label					install
+plymouth-theme-ubuntu-text					install
+plymouth-theme-xubuntu-logo					install
+plymouth-theme-xubuntu-text					install
+pm-utils					install
+policykit-1					install
+policykit-1-gnome					install
+policykit-desktop-privileges					install
+poppler-data					install
+poppler-utils					install
+popularity-contest					install
+powermgmt-base					install
+ppp					install
+pppconfig					install
+pppoeconf					install
+pptp-linux					install
+printer-driver-brlaser					install
+printer-driver-c2esp					install
+printer-driver-foo2zjs					install
+printer-driver-foo2zjs-common					install
+printer-driver-gutenprint					install
+printer-driver-hpcups					install
+printer-driver-min12xxw					install
+printer-driver-pnm2ppa					install
+printer-driver-postscript-hp					install
+printer-driver-ptouch					install
+printer-driver-pxljr					install
+printer-driver-sag-gdi					install
+printer-driver-splix					install
+procps					install
+psmisc					install
+pulseaudio					install
+pulseaudio-module-x11					install
+pulseaudio-utils					install
+pwgen					install
+python					install
+python-apt					install
+python-apt-common					install
+python-aptdaemon					install
+python-aptdaemon.gtk3widgets					install
+python-blinker					install
+python-bs4					install
+python-cairo					install
+python-cffi					install
+python-cffi-backend					install
+python-characteristic					install
+python-chardet					install
+python-cryptography					install
+python-cups					install
+python-dbus					install
+python-dbus-dev					install
+python-debian					install
+python-debtagshw					install
+python-defer					install
+python-defusedxml					install
+python-dirspec					install
+python-enum34					install
+python-gi					install
+python-gi-cairo					install
+python-html5lib					install
+python-httplib2					install
+python-idna					install
+python-ipaddress					install
+python-jwt					install
+python-lxml					install
+python-magic					install
+python-minimal					install
+python-oauthlib					install
+python-oneconf					install
+python-openssl					install
+python-pam					install
+python-piston-mini-client					install
+python-pkg-resources					install
+python-ply					install
+python-pyasn1					install
+python-pyasn1-modules					install
+python-pycparser					install
+python-scapy					install
+python-serial					install
+python-service-identity					install
+python-six					install
+python-soappy					install
+python-talloc					install
+python-twisted-bin					install
+python-twisted-core					install
+python-twisted-web					install
+python-ubuntu-sso-client					install
+python-wstools					install
+python-xapian					install
+python-xdg					install
+python-zope.interface					install
+python2.7					install
+python2.7-minimal					install
+python3					install
+python3-apport					install
+python3-apt					install
+python3-aptdaemon					install
+python3-aptdaemon.gtk3widgets					install
+python3-aptdaemon.pkcompat					install
+python3-blinker					install
+python3-bs4					install
+python3-cairo					install
+python3-cffi					install
+python3-cffi-backend					install
+python3-chardet					install
+python3-commandnotfound					install
+python3-cryptography					install
+python3-cups					install
+python3-cupshelpers					install
+python3-dbus					install
+python3-debian					install
+python3-defer					install
+python3-distupgrade					install
+python3-gdbm					install
+python3-gi					install
+python3-gi-cairo					install
+python3-html5lib					install
+python3-httplib2					install
+python3-idna					install
+python3-jwt					install
+python3-lxml					install
+python3-minimal					install
+python3-oauthlib					install
+python3-oneconf					install
+python3-pexpect					install
+python3-pil					install
+python3-piston-mini-client					install
+python3-pkg-resources					install
+python3-ply					install
+python3-problem-report					install
+python3-psutil					install
+python3-pyasn1					install
+python3-pycparser					install
+python3-pycurl					install
+python3-renderpm					install
+python3-reportlab					install
+python3-reportlab-accel					install
+python3-requests					install
+python3-six					install
+python3-smbc					install
+python3-software-properties					install
+python3-uno					install
+python3-update-manager					install
+python3-urllib3					install
+python3-xdg					install
+python3-xkit					install
+qbittorrent					install
+qemu-system					install
+qemu-user					install
+qpdf					install
+rar					install
+readline-common					install
+rename					install
+resolvconf					install
+rfkill					install
+ristretto					install
+rsync					install
+rsyslog					install
+rtkit					install
+ruby					install
+samba					install
+samba-libs					install
+sane-utils					install
+sed					install
+sensible-utils					install
+sessioninstaller					install
+sgml-base					install
+shared-mime-info					install
+shimmer-themes					install
+simple-scan					install
+smplayer					install
+snapd					install
+software-center					install
+software-center-aptdaemon-plugins					install
+software-properties-common					install
+software-properties-gtk					install
+sound-theme-freedesktop					install
+speech-dispatcher					install
+speech-dispatcher-audio-plugins					install
+ssl-cert					install
+strace					install
+sublime-text					install
+sudo					install
+synaptic					install
+sysinfo					install
+system-config-printer-common					install
+system-config-printer-gnome					install
+system-config-printer-udev					install
+system-config-samba					install
+system-tools-backends					install
+systemd					install
+systemd-sysv					install
+sysv-rc					install
+sysvinit-utils					install
+t1utils					install
+tar					install
+tcl					install
+tcl8.6					install
+tcpd					install
+tcpdump					install
+telnet					install
+testdisk					install
+thunar					install
+thunar-archive-plugin					install
+thunar-data					install
+thunar-media-tags-plugin					install
+thunar-volman					install
+thunderbird					install
+thunderbird-locale-en					install
+thunderbird-locale-en-us					install
+thunderbird-locale-ru					install
+time					install
+tk					install
+tk8.6					install
+toshset					install
+transmission-common					install
+transmission-gtk					install
+ttf-ancient-fonts-symbola					install
+ttf-ubuntu-font-family					install
+tumbler					install
+tumbler-common					install
+tzdata					install
+ucf					install
+udev					install
+udisks2					install
+ufw					install
+unattended-upgrades					install
+uno-libs3					install
+unoconv					install
+unrar					install
+unzip					install
+update-inetd					install
+update-manager					install
+update-manager-core					install
+update-notifier					install
+update-notifier-common					install
+upower					install
+upstart					install
+ure					install
+ureadahead					install
+usb-modeswitch					install
+usb-modeswitch-data					install
+usbmuxd					install
+usbutils					install
+util-linux					install
+uuid-runtime					install
+vbetool					install
+viewnior					install
+vim					install
+vim-common					install
+vim-tiny					install
+virt-manager					install
+virtualbox					install
+vlc					install
+vlc-data					install
+vlc-plugin-fluidsynth					install
+vlc-plugin-jack					install
+vlc-plugin-notify					install
+vlc-plugin-samba					install
+vlc-plugin-sdl					install
+vlc-plugin-svg					install
+vlc-plugin-zvbi					install
+wamerican					install
+wbritish					install
+wget					install
+whiptail					install
+whoopsie					install
+wireless-regdb					install
+wireless-tools					install
+wireshark					install
+wpasupplicant					install
+yandex-browser-beta					install
+yelp					install
+yelp-xsl					install
+yumi					install
+zenity					install
+zenity-common					install
+zip					install
+zlib1g					install

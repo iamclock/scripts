@@ -44,7 +44,7 @@ sudo apt-get install -y git g++ gcc nasm gitk
 sudo apt-get install -y kate kate-data kate5-data
 sudo apt-get install -y nmap
 sudo apt-get install -y acetoneiso
-sudo apt-get install -y gparted
+sudo apt-get install -y gparted meld
 sudo apt-get install -y vlc vlc-data browser-plugin-vlc
 sudo apt-get install -y gimp gimp-data
 sudo apt-get install -y libreoffice

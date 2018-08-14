@@ -27,7 +27,7 @@ sudo apt-get install -y lm-sensors fancontrol # xsensors sensors-applet xfce4-se
 #sudo apt-get install -y joystick jstest-gtk antimicro #xboxdrv
 sudo apt-get install -y sysinfo #hardinfo
 #sudo lshw -businfo | grep -i display
-sudo apt-get install -y pwgen htop nload tree iftop
+sudo apt-get install -y pwgen htop nload tree iftop mc
 #sudo apt-get install -y mtop ntop
 sudo apt-get install -y synaptic rar # unar
 sudo apt-get install -y unoconv #pdftk pdfsam pdfjam jPDFTweak
@@ -92,7 +92,7 @@ echo "mysql"
 echo "acestream"
 echo "qt creator"
 echo "game conqueror"
-echo "multisystem, sardu"
+echo "multisystem, sardu, multibootusb"
 echo "f3"
 echo "samba, nfs"
 

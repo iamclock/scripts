@@ -41,7 +41,7 @@ sudo apt-get install -y qbittorrent # ktorrent
 sudo apt-get install -y git g++ gcc nasm gitk
 #sudo apt-get install -y gedit-dev gedit-common gedit-plugins #gedit-developer-plugins
 #sudo apt-get install -y geany
-sudo apt-get install -y kate kate-data kate5-data
+sudo apt-get install -y kate kate-data kate5-data meld
 sudo apt-get install -y nmap
 sudo apt-get install -y acetoneiso
 sudo apt-get install -y gparted meld
@@ -54,7 +54,7 @@ sudo apt-get install -y samba system-config-samba
 sudo apt-get install -y audacity audacity-data
 sudo apt-get install -y vokoscreen kazam #recordmydesktop #gtk-recordmydesktop #qt-recordmydesktop
 sudo apt-get install -y libparted0-dev libgtk2.0-dev gdebi
-sudo apt-get install -y k3b
+sudo apt-get install -y k3b audacious
 sudo apt-get install -y testdisk photorec
 sudo apt-get install -y virtualbox virtualbox-qt qemu
 sudo apt-get install -y wipe
